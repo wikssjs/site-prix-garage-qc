@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /soumission-garage/
+
+Sitemap: https://prix-garage.ca/sitemap-index.xml
